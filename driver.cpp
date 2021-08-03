@@ -1,12 +1,3 @@
-/*	Clem Kadiddlehopper
-	Lab 6 Solution
-	Computer Science 2
-	Howard Community College
-*/
-
-
-// Do not make any changes to this file.
-
 #include <iostream>
 #include <string>
 #include <vector>
